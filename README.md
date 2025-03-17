@@ -19,7 +19,7 @@ folder: `./conf/`
 
 take `Parkinson Disease` as an example, the config file looks like:
 
-```json
+```yaml
 name: Parkinson Disease
 mesh_id: D010300
 entry_terms:
